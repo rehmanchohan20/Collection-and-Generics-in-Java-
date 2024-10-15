@@ -1,0 +1,32 @@
+<!-- 
+List can store duplicates as well 
+set Unordered collection, set cannot having a duplicates 
+Queue  used to ensure that is order is established in a qeue and  it follows the FIFO principle each element is process only once.
+Map  is used to store the key value pairs, Collection of key-value pairs allowing quick lookup by key. 
+
+
+Hash unorderd unsorted collection  (HAmehsa random ourput milega jaisa bhe input do)
+A X B
+X A B
+
+Linked Collection the term linked means yeh connected hain via head data and tail ki waja sa es liya yrh Ordered hwta hai- iterates in order of insertion (jaisa input karoga waisa output milega)
+A X B
+A X B
+
+TreeSet
+eska mtlb hota hai k jb bhe data ayega woh sorted he hwga treee shaped main or yahn by default Navigaleset ya navigableTree impliment hua wa hwga
+always sorted  - natural ordering or data wohi hwga jo chota sa bara ki taraf jayega just like nicha di hui example ko dakhlo. 
+A C B
+A B C
+
+hashMap unsorted unordered, when you are not worried about how the data is being stored
+
+hashTable
+Synchronized- thread safe - unsorted unordered, and it dosen't allows the key values to be null. hashMap Does.   
+
+LinkedHashMap 
+maintains the order of insertaion, faster iteration. slower insertion and deletion
+
+TreeMap
+Sorted Orderm, maintained 
+ -->
