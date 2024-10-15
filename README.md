@@ -11,7 +11,7 @@ Contents
       Wildcards in Generics
       Generic Methods
 
-                **Collections In Java**
+                                                Collections In Java
   
 Arrays
   Basic usage and manipulation of arrays in Java.
@@ -42,7 +42,7 @@ Map Interface
       TreeMap: Implements a red-black tree, maintains keys in sorted order.
       Hashtable: Synchronized hash table, does not allow null keys/values.
       
-                    **Generics In Java**
+                                        Generics In Java
                     
 Types in Generics
   A comprehensive look at the different types used in Java generics.
